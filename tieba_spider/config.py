@@ -1,0 +1,6 @@
+tieba_name = '海航'
+host = ''
+user = ''
+password = ''
+database = ''
+tablename = ''
